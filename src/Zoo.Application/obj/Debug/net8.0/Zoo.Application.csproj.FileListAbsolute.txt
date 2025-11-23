@@ -1,0 +1,17 @@
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Application.deps.json
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Application.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Application.pdb
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Data.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Domain.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Data.pdb
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/bin/Debug/net8.0/Zoo.Domain.pdb
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.csproj.AssemblyReference.cache
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.AssemblyInfoInputs.cache
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.AssemblyInfo.cs
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.csproj.CoreCompileInputs.cache
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.csproj.CopyComplete
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/refint/Zoo.Application.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/Zoo.Application.pdb
+/home/tlm/RiderProjects/Zoo/src/Zoo.Application/obj/Debug/net8.0/ref/Zoo.Application.dll

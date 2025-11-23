@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.21"/>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Zoo.Application\Zoo.Application.csproj" />
+      <ProjectReference Include="..\Zoo.Domain\Zoo.Domain.csproj" />
+      <ProjectReference Include="..\Zoo.IoC\Zoo.IoC.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/bin/Debug/net8.0/Zoo.Domain.deps.json
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/bin/Debug/net8.0/Zoo.Domain.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/bin/Debug/net8.0/Zoo.Domain.pdb
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.AssemblyInfoInputs.cache
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.AssemblyInfo.cs
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.csproj.CoreCompileInputs.cache
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/refint/Zoo.Domain.dll
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.pdb
+/home/tlm/RiderProjects/Zoo/src/Zoo.Domain/obj/Debug/net8.0/ref/Zoo.Domain.dll
